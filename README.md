@@ -3,7 +3,7 @@
 - 📫 How to reach me: angelamecia95@gmail.com
 
 Linguages that I can work with so far:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" "width=10" "height=10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" "width=10%" alt=""/>
           
                   
           
