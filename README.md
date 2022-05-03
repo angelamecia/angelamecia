@@ -3,9 +3,8 @@
 - 📫 How to reach me: angelamecia95@gmail.com
 
 Linguages that I can work with so far:
-
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <i class="devicon-css3-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" weight:5px height:5px/>
+          
                   
           
           
