@@ -7,11 +7,13 @@
 <a href="https://www.linkedin.com/in/%C3%A2ngela-aguiar-90211022a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<br></br>
 
 Linguages that I can work with so far:
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="30" alt=""/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="30" alt=""/>
+ </div>
           
           
                   
