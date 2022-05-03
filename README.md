@@ -7,4 +7,4 @@ angelamecia/angelamecia is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![MasterHead]https://www.pexels.com/photo/photo-of-supernova-in-galaxy-3805983/ github.com/angelamecia]
+[![MasterHead](https://www.pexels.com/photo/photo-of-supernova-in-galaxy-3805983/)(http://www.github.com/angelamecia)]
