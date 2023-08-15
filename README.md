@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ângela Mécia
 - 📍  I'm from Porto, Portugal
-- 🌱 I’m currently learning Web Development at Udemy
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: 
 <div>
 <a href="https://instagram.com/angelameciaaguiar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
